@@ -1,0 +1,9 @@
+distance_km,prep_time_min,is_peak_hour,delivery_time_min
+2,10,0,25
+5,15,1,45
+3,12,0,30
+7,20,1,60
+1,8,0,20
+4,14,1,40
+6,18,1,55
+8,22,0,65
